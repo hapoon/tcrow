@@ -1,5 +1,8 @@
-# readme-template
-README template repository
+# tcrow
+
+![GitHub License](https://img.shields.io/github/license/hapoon/tcrow)
+
+TimeCrowd CLI client written in Go
 
 ## Description
 
